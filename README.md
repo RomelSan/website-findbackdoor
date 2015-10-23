@@ -11,10 +11,10 @@ This scanner can trigger false positive, you should have basic programming skill
 
 ### Basic Usage
 Download it, then run it    
-example for current directory (php): ./find-backdoor.py .    
-example for other directory: ./find-backdoor.py /var/www/html    
-example for javascript file: ./find-backdoor.py -j /var/www/html    
-example for aspx file: ./find-backdoor.py -x C:\inetpub
+example for current directory (php): `./find-backdoor.py .`    
+example for other directory: `./find-backdoor.py /var/www/html`    
+example for javascript file: `./find-backdoor.py -j /var/www/html`    
+example for aspx file: `./find-backdoor.py -x C:\inetpub`
 
 ### Built using
 * Python 3.5 - [Link](https://www.python.org/)
